@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: violet;
+    margin: 20;
+    padding: 10;
+}
+
+.dashboard {
+    width:60%;
+    margin: 50px auto;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.area, .restaurant {
+    padding: 50px;
+    margin: 5px 0;
+    background: #e2e2e2;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.area a {
+    text-decoration: none;
+    font-family: algeria;
+    font-size: 200%;
+    color: black;
+    font-weight: bold;
+}
+
+.area a:hover {
+    color: blue;
+}
